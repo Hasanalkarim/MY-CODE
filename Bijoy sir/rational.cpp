@@ -106,6 +106,8 @@ void mult(int r1[], int r2[], int res[]) {
 
        res[1]=r1[1]*r2[1];
 
+       //
+
 
 
 
