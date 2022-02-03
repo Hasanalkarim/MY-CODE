@@ -90,7 +90,7 @@ void makerational(int r[], int p, int q){
 
 };
 
-
+//123
 
 void add(int r1[], int r2[], int res[]){
 
