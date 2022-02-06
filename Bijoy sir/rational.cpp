@@ -50,6 +50,8 @@ makerational(r1, p , q);
 
  cout<<endl<<equal(r1, r2);
 
+ 
+
  //Printnum(res);
 
     return 0;
